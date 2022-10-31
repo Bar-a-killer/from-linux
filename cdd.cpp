@@ -8,4 +8,5 @@ int main()
 		cout << a << endl;
 		a++;
 	}
+	return 0;
 }
